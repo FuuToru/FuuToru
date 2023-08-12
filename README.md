@@ -16,17 +16,17 @@
 <br>
 <!-- https://icons8.com -->
 <div align="center">
-  <a href="https://facebook.com/teiiiiii.03" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="teiiiiii.03-facebook" />
+  <a href="https://facebook.com/FuuToru" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="toru-facebook" />
   </a>
   <a href="#" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="teiiiiii.03-linkedin" />
+    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="toru-linkedin" />
   </a>
   <a href="https://www.instagram.com/i_am_young19ht/" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="teiiiiii.03-instagram" />
+    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="toru-instagram" />
   </a>
   <a href="mailto:huutri231103@gmail.com" target="top">
-    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="teiiiiii.03-email" />
+    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="toru-email" />
   </a>
 </div>
 
